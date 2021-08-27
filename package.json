@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot-autodata",
+  "version": "1.0.0",
+  "description": "Telegram bot for evaluating trainees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bakibayev Diyar <diyar9baki@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.8",
+    "telegraf": "^4.4.1"
+  }
+}
